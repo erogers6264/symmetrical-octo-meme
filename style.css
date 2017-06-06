@@ -8,6 +8,6 @@ body {
   padding-top: 70px;
 }
 
-h2 {
+.h2, h2 {
   font-size: 120px;
 }
