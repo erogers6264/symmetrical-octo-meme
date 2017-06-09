@@ -23,7 +23,9 @@ h1 {
 }
 
 hr {
-  width: 33%;
+  border-top: 1px solid #F8F8F8;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+  width: 325px;
   margin-top: 25px;
   margin-bottom: 25px;
 }
