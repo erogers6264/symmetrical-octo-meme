@@ -9,4 +9,17 @@ body {
 #content {
   padding-top: 15%;
   text-align: center;
+  text-shadow: 1px 1px #343434;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 3.5em;
+  letter-spacing: 2px;
+}
+
+hr {
+  width: 33%;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
