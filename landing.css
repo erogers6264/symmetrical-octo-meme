@@ -6,6 +6,10 @@ body {
   color: #FFFFFF;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 html {
   height: 100%;
 }
@@ -24,7 +28,7 @@ h1 {
 
 hr {
   border-top: 1px solid #F8F8F8;
-  border-bottom: 1px solid rgb(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   width: 325px;
   margin-top: 25px;
   margin-bottom: 25px;
