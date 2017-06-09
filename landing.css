@@ -6,6 +6,10 @@ body {
   color: #FFFFFF;
 }
 
+html {
+  height: 100%;
+}
+
 #content {
   padding-top: 15%;
   text-align: center;
