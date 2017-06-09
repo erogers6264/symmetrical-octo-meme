@@ -1,12 +1,12 @@
 body {
-  background: url(mostafa-osman-175958.jpg);
+  background: url(img/tony-webster-97532.jpg);
   background-size: cover;
   background-position: center;
   font-family: 'Lato', sans-serif;
+  color: #FFFFFF;
 }
 
 #content {
   padding-top: 15%;
   text-align: center;
-  color: #CACACA;
 }
